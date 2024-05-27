@@ -11,6 +11,7 @@ public class Demo0 {
 		al.add(25.5);
 		al.add(null);
 		al.add(null);
+		al.add("Git");
 
 		System.out.println(al);
 		System.out.println(al.contains("Mahesh"));
